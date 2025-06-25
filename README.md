@@ -1,11 +1,15 @@
 ```lua
 local user = {
     name = "René",
-    role = {
+    username = "blackscreenofdead"
+    job = {
         "🖧 Network Engineer"
     },
-    specialties = {
+    interests = {
+        "Homelab",
         "Networking",
+        "Automation",
+        "Programming",
         "Hardware / Datacenter Work"
     },
     stack = {
