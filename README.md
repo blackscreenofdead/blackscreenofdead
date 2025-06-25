@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**blackscreenofdead/blackscreenofdead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+'''
+local user = {
+    name = "Aaron",
+    role = {
+        "💻 Full-Stack Developer",
+        "🛠️ IT Systems Specialist",
+        "🧊 Blender/3D Model Artist"
+    },
+    specialties = {
+        "Networking",
+        "Performance Optimization",
+        "Cloud & Server Management"
+    },
+    stack = {
+        languages = { "JavaScript", "Lua", "Python", "C++", "HTML/CSS" },
+        modeling = { "Blender", "Substance Painter", "ZBrush" },
+        devtools = { "VS Code", "Git", "Docker", "Nginx", "Ubuntu Server" },
+        systems = { "Windows", "Linux", "Virtualization", "Proxmox" }
+    }
+}
+'''
