@@ -1,3 +1,4 @@
+```
 local user = {
     name = "Aaron",
     role = {
@@ -17,3 +18,4 @@ local user = {
         systems = { "Windows", "Linux", "Virtualization", "Proxmox" }
     }
 }
+```
