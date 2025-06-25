@@ -9,7 +9,7 @@ local user = {
         "Server Management"
     },
     stack = {
-        languages = { "Python", "HTML/CSS" },
+        languages = { "Python", "Terraform" },
         modeling = { "Onshape", },
         devtools = { "VS Code", "Git", "Docker" },
         systems = { "Windows", "Linux", "Virtualization", "Proxmox" }
