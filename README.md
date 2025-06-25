@@ -11,10 +11,8 @@ user:
     - Hardware / Datacenter Work
   stack:
     languages:
-      - Python
       - Terraform
-    modeling:
-      - Onshape
+      - Python
     devtools:
       - VS Code
       - Git
