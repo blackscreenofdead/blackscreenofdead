@@ -1,20 +1,17 @@
 ```lua
 local user = {
-    name = "Aaron",
+    name = "René",
     role = {
-        "💻 Full-Stack Developer",
-        "🛠️ IT Systems Specialist",
-        "🧊 Blender/3D Model Artist"
+        "🖧 Network Engineer"
     },
     specialties = {
         "Networking",
-        "Performance Optimization",
-        "Cloud & Server Management"
+        "Server Management"
     },
     stack = {
-        languages = { "JavaScript", "Lua", "Python", "C++", "HTML/CSS" },
-        modeling = { "Blender", "Substance Painter", "ZBrush" },
-        devtools = { "VS Code", "Git", "Docker", "Nginx", "Ubuntu Server" },
+        languages = { "Python", "HTML/CSS" },
+        modeling = { "Onshape", },
+        devtools = { "VS Code", "Git", "Docker" },
         systems = { "Windows", "Linux", "Virtualization", "Proxmox" }
     }
 }
