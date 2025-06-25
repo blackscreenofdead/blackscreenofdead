@@ -2,9 +2,7 @@
 local user = {
     name = "René",
     username = "blackscreenofdead"
-    job = {
-        "🖧 Network Engineer"
-    },
+    job = "🖧 Network Engineer" 
     interests = {
         "Homelab",
         "Networking",
