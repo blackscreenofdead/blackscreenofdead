@@ -6,7 +6,7 @@ local user = {
     },
     specialties = {
         "Networking",
-        "Server Management"
+        "Hardware / Datacenter Work"
     },
     stack = {
         languages = { "Python", "Terraform" },
