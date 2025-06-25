@@ -12,6 +12,7 @@ user:
   stack:
     languages:
       - Terraform
+      - Bash
       - Python
     devtools:
       - VS Code
